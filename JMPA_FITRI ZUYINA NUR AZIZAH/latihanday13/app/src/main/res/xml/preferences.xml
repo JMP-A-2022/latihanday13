@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<preferencescreen
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <checkboxpreference
+        app:defaultvalue="false"
+        app:key="key_keep_username"
+        app:title="keep username"
+        />
+</preferencescreen>
